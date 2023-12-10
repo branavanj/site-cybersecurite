@@ -1,4 +1,4 @@
-# Cybersécurité XYZ
+#  Site Cybersécurité
 
 Bienvenue sur le site de Cybersécurité XYZ, votre partenaire de confiance pour des solutions de sécurité informatique avancées.
 
@@ -14,7 +14,7 @@ Bienvenue sur le site de Cybersécurité XYZ, votre partenaire de confiance pour
 
 ## À propos
 
-Cybersécurité XYZ est une plateforme complète offrant des outils et des services dédiés à la protection de vos systèmes informatiques contre les menaces en ligne. Notre mission est de fournir des solutions robustes pour garantir la confidentialité, l'intégrité et la disponibilité de vos données sensibles.
+Cybersécurité est une plateforme complète offrant des outils et des services dédiés à la protection de vos systèmes informatiques contre les menaces en ligne. Notre mission est de fournir des solutions robustes pour garantir la confidentialité, l'intégrité et la disponibilité de vos données sensibles.
 
 ## Fonctionnalités
 
