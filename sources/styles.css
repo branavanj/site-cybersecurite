@@ -1,0 +1,90 @@
+/* Réinitialisation des styles par défaut */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style global */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+/* En-tête */
+header {
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+/* Navigation */
+nav {
+    background-color: #2c3e50;
+    color: #fff;
+    padding: 1em;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Contenu principal */
+main {
+    padding: 2em;
+}
+
+/* Sections */
+section {
+    margin-bottom: 40px;
+}
+
+/* Pied de page */
+footer {
+    background-color: #34495e;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Bouton */
+button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Exemple de classe spécifique */
+.exemple-classe {
+    font-style: italic;
+    color: #e74c3c;
+}
+
+/* Styles spécifiques à la section À propos */
+#a-propos {
+    background-color: #ecf0f1;
+    padding: 20px;
+}
+
+/* Styles spécifiques à la section Actualités */
+#actualites {
+    background-color: #f39c12;
+    padding: 20px;
+}
