@@ -16,6 +16,6 @@ Si vous trouvez des problèmes ou avez des suggestions, veuillez les signaler en
 
 ## Code de Conduite
 
-Veuillez respecter notre [Code de Conduite](CODE_OF_CONDUCT.md) pendant toute votre participation à notre projet.
+Veuillez respecter notre [Code de Conduite](code_of_conduct.md) pendant toute votre participation à notre projet.
 
 Nous apprécions toutes les contributions et vous remercions de contribuer à la sécurité en ligne avec nous!
