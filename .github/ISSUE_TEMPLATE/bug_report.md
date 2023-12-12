@@ -6,7 +6,7 @@ labels: bug
 assignees: ''
 ---
 
-## Description du bogue
+## Description du bug
 
 [Décrivez le bug de manière claire et concise.]
 
