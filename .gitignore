@@ -1,0 +1,41 @@
+# Ignorer les fichiers générés par l'IDE
+.idea/
+
+# Ignorer les fichiers de sauvegarde
+*~
+
+# Ignorer les fichiers de configuration spécifiques à l'utilisateur
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# Ignorer les dépendances Node.js
+node_modules/
+
+# Ignorer les fichiers de sauvegarde des éditeurs de texte
+*.bak
+*.swp
+*~
+
+# Ignorer les fichiers de build
+/build/
+/dist/
+
+# Ignorer les fichiers de logs
+/logs/
+
+# Ignorer les fichiers de configuration sensibles
+.env
+
+# Ignorer les fichiers générés pendant l'exécution
+*.log
+
+# Ignorer les fichiers de données volumineux
+*.sqlite
+*.db
+*.sql
+
+# Ignorer les fichiers d'archive
+*.zip
+*.tar
+*.gz
