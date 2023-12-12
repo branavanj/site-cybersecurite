@@ -31,5 +31,3 @@ Des mesures disciplinaires appropriées seront prises en réponse à toute viola
 ## Attribution
 
 Ce Code de Conduite est adapté du [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, disponible à [https://www.contributor-covenant.org/fr/version/2/1/code-of-conduct.html](https://www.contributor-covenant.org/fr/version/2/1/code-of-conduct.html).
-
----
