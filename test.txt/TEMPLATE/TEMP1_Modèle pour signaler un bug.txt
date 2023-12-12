@@ -1,0 +1,11 @@
+Modèle pour signaler un bug :
+### Description du Bug
+[Expliquez clairement et de manière concise quel est le problème.]
+### Étapes de Reproduction 
+1. [Première étape] 
+2. [Deuxième étape] 
+3. [Et ainsi de suite...] 
+### Comportement Attendu [Expliquez ce à quoi vous vous attendiez à voir] ### 
+Captures d'écran [Ajoutez des captures d'écran si nécessaire] 
+### Environnement - Système d’exploitation : [ex. Windows 10] - Navigateur : [ex. Google Chrome version 99] - Autres informations pertinentes : ### 
+Contexte Additionnel [Ajoutez tout autre contexte ou information pertinente ici]
