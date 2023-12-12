@@ -2,7 +2,7 @@
 
 ## Objectif
 
-Le projet Cybersécurité XYZ s'engage à créer une communauté inclusive et respectueuse, où chacun peut contribuer de manière positive et bénéficier d'une expérience collaborative enrichissante. Ce Code de Conduite établit les normes de comportement attendues de tous les membres de notre communauté, tant en ligne que lors d'événements en personne.
+Le projet Site Cybersécurité s'engage à créer une communauté inclusive et respectueuse, où chacun peut contribuer de manière positive et bénéficier d'une expérience collaborative enrichissante. Ce Code de Conduite établit les normes de comportement attendues de tous les membres de notre communauté, tant en ligne que lors d'événements en personne.
 
 ## Nos Attentes
 
@@ -22,7 +22,7 @@ Nous attendons de chaque participant qu'il adopte les principes suivants :
 
 ## Signalement des Violations
 
-Si vous constatez un comportement inapproprié ou une violation de ce Code de Conduite, veuillez signaler l'incident à [adresse_email@cybersecurite-xyz.com]. Toutes les plaintes seront examinées et traitées de manière confidentielle.
+Si vous constatez un comportement inapproprié ou une violation de ce Code de Conduite, veuillez signaler l'incident à [signalement@site-cybersecurite.com]. Toutes les plaintes seront examinées et traitées de manière confidentielle.
 
 ## Mesures Disciplinaires
 
@@ -33,4 +33,3 @@ Des mesures disciplinaires appropriées seront prises en réponse à toute viola
 Ce Code de Conduite est adapté du [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, disponible à [https://www.contributor-covenant.org/fr/version/2/1/code-of-conduct.html](https://www.contributor-covenant.org/fr/version/2/1/code-of-conduct.html).
 
 ---
-**Remarque :** Assurez-vous d'ajuster les informations spécifiques, telles que l'adresse e-mail de signalement, pour qu'elles correspondent à votre projet.
