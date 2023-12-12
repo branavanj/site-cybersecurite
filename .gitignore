@@ -4,6 +4,9 @@
 # Ignorer les fichiers de sauvegarde
 *~
 
+# Ignorer les fichiers dans le dossier github
+./github
+
 # Ignorer les fichiers de configuration spécifiques à l'utilisateur
 .DS_Store
 desktop.ini
