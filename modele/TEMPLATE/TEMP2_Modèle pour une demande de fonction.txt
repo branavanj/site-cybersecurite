@@ -1,0 +1,5 @@
+Modèle pour une demande de fonctionnalité :
+### Description de la Fonctionnalité [Expliquez clairement la nouvelle fonctionnalité que vous aimeriez voir ajoutée.] 
+### Raison de la Fonctionnalité [Expliquez pourquoi cette fonctionnalité serait utile.] 
+### Implémentation Proposée [Si vous avez des idées sur la manière dont la fonctionnalité pourrait être mise en œuvre, partagez-les ici.] 
+### Contexte Additionnel [Ajoutez tout autre contexte ou information pertinente ici.]
