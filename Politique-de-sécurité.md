@@ -8,7 +8,7 @@ Cette politique a pour objectif de créer un environnement collaboratif, sûr et
 
 1.	Comportement Respectueux : Les contributeurs doivent traiter les autres avec 	respect et tolérance, indépendamment de leurs compétences techniques, de 	leur niveau d'expérience ou de tout autre critère.
 
-2.	Signalement des Problèmes de Sécurité : Les contributeurs doivent signaler 	immédiatement tout problème de sécurité découvert dans le projet. Les rapports 	peuvent être soumis de manière confidentielle à sécu@site-cybersecurite.com.
+2.	Signalement des Problèmes de Sécurité : Les contributeurs doivent signaler 	immédiatement tout problème de sécurité découvert dans le projet. Les rapports 	peuvent être soumis de manière confidentielle à securite@site-cybersecurite.com.
 
 3.	Suivi des Meilleures Pratiques de Sécurité: Les contributeurs sont encouragés 	à suivre les meilleures pratiques de sécurité en matière de développement, 	d'intégration continue et de gestion des dépendances logicielles.
 
@@ -22,7 +22,7 @@ Cette politique a pour objectif de créer un environnement collaboratif, sûr et
 
 ## Procédures en Cas d'Incident
 
-1.	Signalement des Incidents : Tous les incidents de sécurité doivent être 	signalés immédiatement à l'équipe de sécurité en utilisant le canal approprié  sécurité@site-cybersecurité.com, formulaire de signalement, etc.).
+1.	Signalement des Incidents : Tous les incidents de sécurité doivent être 	signalés immédiatement à l'équipe de sécurité en utilisant le canal approprié  securite@site-cybersecurité.com, formulaire de signalement, etc.).
 
 2.	Investigation et Correction: L'équipe de sécurité s'engage à enquêter 	rapidement sur tous les incidents signalés, à prendre des mesures correctives et 	à informer les parties concernées.
 
